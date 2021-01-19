@@ -9,12 +9,14 @@ Document của Botble ở đây https://docs.botble.com/cms/
 Plugin blog có sẵn 
 ------------------
 	Cách overwrite file .blade của plugin này. Vd theme sẽ sử dụng file 
-	platform/theme/{theme name}/view/category.blade.php (1) thay cho platform/plugins/blog/resources/view/themes/category.blade.php nếu	file (1) tồn tại 
+	platform/theme/{theme name}/view/category.blade.php (1) 
+	thay cho platform/plugins/blog/resources/view/themes/category.blade.php nếu	file (1) tồn tại 
 
 Plugin 
 ------
 	Botble có sẵn hệ thống CRUD, các bạn có thể tận dụng. Đánh lệnh cms:package:make:crud để gennerate. 
-	Để display content của plugin mà bạn muốn thì phải dùng shortcode hay dùng những hàm trong helper của plugin đó 
+	Để display content của plugin mà bạn muốn thì phải dùng shortcode hay dùng những hàm trong helper
+	của plugin đó 
 
 Theme
 -----

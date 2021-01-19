@@ -1,0 +1,9 @@
+{
+    "name": "Quanlysv",
+    "namespace": "Botble\\Quanlysv\\",
+    "provider": "Botble\\Quanlysv\\Providers\\QuanlysvServiceProvider",
+    "author": "N/A",
+    "url": "N/A",
+    "version": "1.0",
+    "description": "Quản lý Sinh viên"
+}
